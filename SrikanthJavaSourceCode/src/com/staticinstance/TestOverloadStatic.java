@@ -1,6 +1,7 @@
 
 
 
+
 package com.staticinstance;
 
 //filename Test.java
